@@ -1,0 +1,11 @@
+print("about family")
+print("A Nuclear Family of 2 member")
+print("My Mother name: S.Meenakshi)
+print("Me geetha bharathy")
+print( "mother name: S.Meenakshi")
+print()
+print("About my friends")
+print("suba")
+print("ramya")
+print("meena")      
+      
